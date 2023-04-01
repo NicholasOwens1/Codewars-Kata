@@ -8,14 +8,3 @@ function contamination(text, char){
     }
 }
 
-console.log(contamination("heehee", "x"))
-
-// console.log(contamination("heeheee", "y"))
-
-// let text = "hoe"
-// let newStr = text.split("")
-// console.log(newStr)
-// let str = newStr.map(letter => letter = "x")
-// console.log(str.join(""))
-
-//turn into array, convert every character with.map, join
