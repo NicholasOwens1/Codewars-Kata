@@ -8,3 +8,12 @@ function contamination(text, char){
     }
 }
 
+if (true) {
+    let x = 5;
+}
+console.log(typeof x);
+
+
+
+https://www.themoviedb.org/movie/256274-as-above-so-below#
+
